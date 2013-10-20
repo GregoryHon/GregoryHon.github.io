@@ -15,15 +15,15 @@ p {
 }
 
 header {
-    background-color: #000000;
-    color: #ffffff;
+    background-color: #0000ff;
+    color: #aaaaaa;
     height: 44px;
 }
 
 header h1 {
     float: left;
     font-family: helvetica, arial, sans-serif;
-    font-size: 22px;
+    font-size: 36px;
     font-weight: 500;
     padding: 10px; /* TRouBLe */
 }
