@@ -14,7 +14,7 @@ body {
     font-family: georgia, serif;
     font-size: 16px;
     line-height: 24px;
-    background-image:url('http://i.telegraph.co.uk/multimedia/archive/01119/snow-football_1119659i.jpg');
+    background-image:url('http://qzprod.files.wordpress.com/2013/03/snow-soccer.jpg?w=880');
 background-color:#cccccc;
 }
 
@@ -45,6 +45,7 @@ header nav {
 
 header a {
     color: #ff6600;
+    background-color: #0033ff;
     margin-right: 20px;
     text-decoration: none;
 }
@@ -65,13 +66,23 @@ article {
 }
 
 article h1 {
+    color: #ff6600;
+    background-color: #0033ff;
     font-size: 58px;
     line-height: 44px;
     margin-top: 4px;
 }
 
 article h2 {
-    font-size: 44px;
+    color: #ff6600;
+    background-color: #0033ff;
+    font-size: 36px;
+    line-height: 30px;
+    margin-bottom: 4px;
+}
+
+article p {
+    font-size: 20px;
     line-height: 30px;
     margin-bottom: 4px;
 }
